@@ -70,5 +70,5 @@ Relaciones: Herencia, Composición, Agregación, Asociación y Uso.
 
 
 
-![1](https://l.messenger.com/l.php?u=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.15752-0%2Fp480x480%2F52723269_258690911748572_3813567720578875392_n.jpg%3F_nc_cat%3D101%26_nc_ad%3Dz-m%26_nc_cid%3D0%26_nc_zor%3D9%26_nc_ht%3Dscontent.xx%26oh%3D7c62e51394e0430207c67c7381d6c28d%26oe%3D5D2150BD&h=AT0TBnJJQ6VGtar_DE5FrqScafD4H2cIVM1ilTehufRvFgO7GT_t6CRPqddFqQ-q6Brzd0NYZdgdhrpSc-HFCst2O9aPhZW7HQO6IsyV862ub8AwVzB9aVxojd0j9RsPcdytVaVennCrWCfUYhRpJg)
-![2](https://l.messenger.com/l.php?u=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.15752-0%2Fp480x480%2F52809882_393854111379739_3840680500498792448_n.jpg%3F_nc_cat%3D104%26_nc_ad%3Dz-m%26_nc_cid%3D0%26_nc_zor%3D9%26_nc_ht%3Dscontent.xx%26oh%3D32a180b842a1973f83b70de450137605%26oe%3D5CDF1BE9&h=AT0TBnJJQ6VGtar_DE5FrqScafD4H2cIVM1ilTehufRvFgO7GT_t6CRPqddFqQ-q6Brzd0NYZdgdhrpSc-HFCst2O9aPhZW7HQO6IsyV862ub8AwVzB9aVxojd0j9RsPcdytVaVennCrWCfUYhRpJg)
+![1](https://photos.google.com/photo/AF1QipPbTLvPDQJf58_-fa7XwCVlTuwNMXTkyS80yjVi)
+![2](https://photos.google.com/photo/AF1QipNfH0oZKIGILToirzhoI0rqU7WU4-rZYo8evCA5)
