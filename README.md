@@ -21,9 +21,16 @@ Ya que esta se define en base a la abstraccion de ciertos objetos que nosotros o
 
 **4. Explica el concepto de encapsulamiento.**
 reunir todos los elementos que pueden considerarse pertenecientes a una misma entidad
+
+
 ![encapsulamiento](https://compu2poo.files.wordpress.com/2013/11/poohumanos1.png)
+encapsulamiento: como podemos ver aqui estaria encapsulado ya que tenemos todo guardado en un mismo lugar
+
+
 
 ![no encapsulamiento](https://barcelonalternativa.es/wp-content/uploads/2017/04/miedos.jpg)
+no encapsulamiento: podemos observar que todo esta muy desordenado y no es facil encontrar nada ademas todo esta muy vulnerable est
+
 
 Es importante el encapsulamiento por que nos ayuda a mantener protegida informacion que no queremos que el usuario pueda 
 manipularesto podra evitarnos problemas con el programa a largo plazo como por ejemplo el robe de informacion.
