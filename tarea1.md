@@ -1,6 +1,6 @@
 # Tarea1
 ### Unidad 1: Introducción al paradigma de la programación orientado a objetos.
-
+___
 **1. Paradigma.**
 
 Son modelos o estilos de algo en programación esto aria referencia a los distintos estilos con los que se puede programar.
