@@ -80,6 +80,10 @@ El UML o Lenguaje Unificado de Modelado, es un estándar para el desarrollo de s
 
 no
 
+
+**2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.**
+
+
 ***Esta es una tiendita que vende tres tipos diferentes de productos Sabritas, refrescos y dulces,*** 
 ***hay un vendedor que interactúa con los clientes de los cuales ocupa su edad y nombre para hacerle un***
 ***descuento  los pagos que se realizan para la compra del producto son en efectivo. Las Sabritas pueden ser*** 
