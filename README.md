@@ -28,12 +28,12 @@ reunir todos los elementos que pueden considerarse pertenecientes a una misma en
 
 ![encapsulamiento](https://compu2poo.files.wordpress.com/2013/11/poohumanos1.png)
 
--encapsulamiento: cómo podemos ver aquí estaría encapsulado ya que tenemos todo guardado en un mismo lugar
+-encapsulamiento: cómo podemos ver aquí estaría encapsulado ya que tenemos todo guardado en un mismo lugar.
 
 
 ![no encapsulamiento](https://barcelonalternativa.es/wp-content/uploads/2017/04/miedos.jpg)
 
--no encapsulamiento: podemos observar que todo está muy desordenado y no es fácil encontrar nada además todo está muy vulnerable
+-no encapsulamiento: podemos observar que todo está muy desordenado y no es fácil encontrar nada además todo está muy vulnerable.
 
 Es importante el encapsulamiento porque nos ayuda a mantener protegida informacion que no queremos que el usuario pueda 
 manipular esto podrá evitarnos problemas con el programa a largo plazo como por ejemplo el robe de información.
@@ -77,6 +77,7 @@ El UML o Lenguaje Unificado de Modelado, es un estándar para el desarrollo de s
 13. Diagrama de tiempo
 
 **¿Sabes de alguna empresa local que utilice este lenguaje?**
+
 no
 
 ***Esta es una tiendita que vende tres tipos diferentes de productos Sabritas, refrescos y dulces,*** 
