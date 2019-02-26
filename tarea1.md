@@ -88,5 +88,5 @@ no
 
 
 
-![1](https://sites.google.com/s/1kyqdOxD4vx97AFKHyWDkBYVq1MQoZW_t/p/1MGFSRnalyScrfhK-4bCL-ONXfOOv_q9t/edit)
-![2](https://sites.google.com/s/1kyqdOxD4vx97AFKHyWDkBYVq1MQoZW_t/p/1MGFSRnalyScrfhK-4bCL-ONXfOOv_q9t/edit)
+![1](https://github.com/im-light/Tarea1/blob/master/fotos/imagen%201.jpg)
+![2](https://github.com/im-light/Tarea1/blob/master/fotos/imagen%202.jpg)
